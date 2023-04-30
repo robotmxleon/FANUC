@@ -1,0 +1,15 @@
+ERRALL.LS      Robot Name ROBOT 01-APR-23 14:36:34  
+
+1" 01-APR-23 14:36:32 " R E S E T                                         " "                               00000000"    "
+2" 01-APR-23 14:36:24 " R E S E T                                         " "                               00000000"    "
+3" 01-APR-23 14:36:10 " SYST-040 Operation mode AUTO Selected             " " SERVO                         00110110"    "
+4" 01-APR-23 14:36:10 " TPIF-157 Menu cannot be displayed                 " " WARN                          00000000"    "
+5" 01-APR-23 14:35:58 " SYST-305 System startup in progress               " " SERVO                         00110110"    "
+6" 01-APR-23 14:35:58 " APSH-155 HOME position not recorded               " APSH-156 Specify Home in Ref Pos Menu             " WARN                          00000000"    "
+7" 01-APR-23 14:35:56 " SYST-042 DEADMAN defeated                         " " SERVO                         00110110"    "
+8" 01-APR-23 14:35:56 " SYST-305 System startup in progress               " " STOP.G                        00100110"    "
+9" 01-APR-23 14:35:56 " R E S E T                                         " "                               00000000"    "
+10" 01-APR-23 14:35:56 " SRVO-307 HBK close/HBK enabled (G:1)              " " WARN                          00000000"    "
+11" 01-APR-23 14:35:50 " SYST-026 System normal power up                   " " WARN                          00000000"    "
+12" 01-APR-23 14:35:06 " OPTN-018 No CUSTO additions on this media         " " WARN                          00000000"    "
+13" 01-APR-23 14:35:06 " OPTN-018 No Language additions on this media      " " WARN                          00000000"    "
